@@ -3,7 +3,7 @@ requires = ["setuptools>=42", "setuptools_scm[toml]>=3.4"]
 build-backend = "setuptools.build_meta"
 
 [project]
-name = "petsird_helpers"
+name = "petsird-helpers"
 version = "0.0.0"
 description = "Library and tools for working with Positron Emission Tomography Standardization Initiative Raw Data (PETSIRD)"
 authors = [
